@@ -13,7 +13,7 @@ defmodule Test.Tuto_kbrw_stack do
     #IO.inspect(orders)
     #IO.inspect(orders)
     #IO.inspect(orders)
-    IO.puts("AT THIS TIME<")
+    IO.puts("AT THIS TIME< i t changed")
     sup
   end
 
