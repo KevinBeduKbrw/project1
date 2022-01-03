@@ -10,7 +10,14 @@ defmodule Test.Tuto_kbrw_stack do
     JsonLoader.load_to_database(reg,path)
     {:ok, _orders} = Database.search(reg,[{"id", "nat_order000147796"},{"id", "nat_order000147741"},{"id", "42"}])
     #IO.inspect(orders)
+<<<<<<< HEAD
 
+=======
+    #IO.inspect(orders)
+    #IO.inspect(orders)
+    #IO.inspect(orders)
+    IO.puts("AT THIS TIME< IT IS NOT UNIFIED")
+>>>>>>> NewBranch1
     sup
   end
 
