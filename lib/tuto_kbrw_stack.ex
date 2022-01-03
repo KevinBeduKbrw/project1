@@ -13,7 +13,7 @@ defmodule Test.Tuto_kbrw_stack do
     #IO.inspect(orders)
     #IO.inspect(orders)
     #IO.inspect(orders)
-    IO.puts("BRANCHE 2")
+    IO.puts("MASTER")
     sup
   end
 
