@@ -11,12 +11,6 @@ defmodule Test.Tuto_kbrw_stack do
     {:ok, _orders} = Database.search(reg,[{"id", "nat_order000147796"},{"id", "nat_order000147741"},{"id", "42"}])
     #IO.inspect(orders)
 
-    #IO.inspect(orders)
-    #IO.inspect(orders)
-    #IO.inspect(orders)
-    IO.puts("gotta go to master")
-
-
     sup
   end
 
