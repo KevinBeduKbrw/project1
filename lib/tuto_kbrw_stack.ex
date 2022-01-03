@@ -13,7 +13,11 @@ defmodule Test.Tuto_kbrw_stack do
     #IO.inspect(orders)
     #IO.inspect(orders)
     #IO.inspect(orders)
+<<<<<<< HEAD
     IO.puts("MASTER")
+=======
+    IO.puts("THIS IS BRANCH 1")
+>>>>>>> Branche1
     sup
   end
 
